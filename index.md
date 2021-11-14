@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Suphisara Limsuthakul                        
+![D5FE33E3-9A33-4647-A42E-6344AC218672](https://user-images.githubusercontent.com/94276113/141669284-379ae502-5eda-4d09-a172-1e86a7b13ade.jpg)
 
-You can use the [editor on GitHub](https://github.com/Gardlee/tu107_project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### About me
+Nickname : Gard
+Age : 18 years old    
+Birthday : 26 July 2003   
+Address : 82/4 district Chakkarat  sub-district Chakkarat province Nakhonratchasima postcode 30230 Thailand   
+Hobby : Dancing , Watching Youtube Netflix 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
+Marieraksa School : 2005 - 2014   
+Suranari Witthaya School : 2014 - 2021   
+College of Interdisciplinary Studies,Thammasat University : 2021 - Now
 
-### Markdown
+### Skills
+  
+Dancing :   <img width="23" alt="pixlr-bg-result (2)" src="https://user-images.githubusercontent.com/94276113/141670270-6c58150f-407f-499c-a7ec-f25ad8e0bf78.png"><img width="23" alt="pixlr-bg-result (2)" src="https://user-images.githubusercontent.com/94276113/141670275-7bce4a63-d630-4a19-9cd7-5fa8ab3ef3e6.png"><img width="23" alt="pixlr-bg-result (2)" src="https://user-images.githubusercontent.com/94276113/141670278-0819fdfa-7b1c-40a0-9ebe-bcd0bd310434.png">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Video editing :   <img width="23" alt="pixlr-bg-result (2)" src="https://user-images.githubusercontent.com/94276113/141670287-b0fd14e4-8cf2-4097-b189-29b775bcdf08.png"><img width="23" alt="pixlr-bg-result (2)" src="https://user-images.githubusercontent.com/94276113/141670288-881a44e6-1713-4e8a-a5b1-74c444f33d2f.png">
 
-```markdown
-Syntax highlighted code block
+Coding :   <img width="23" alt="pixlr-bg-result (2)" src="https://user-images.githubusercontent.com/94276113/141670294-ad13dc94-54cf-44a4-ac29-d24370fdb87c.png">
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gardlee/tu107_project/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Contact
+Email Address : gard12389@gmail.com    
+Telephone number : 0902482142
