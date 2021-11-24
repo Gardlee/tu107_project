@@ -1,4 +1,4 @@
- # Digital CV
+# Digital CV
 ![D5FE33E3-9A33-4647-A42E-6344AC218672](https://user-images.githubusercontent.com/94276113/141669284-379ae502-5eda-4d09-a172-1e86a7b13ade.jpg)
 
 ### About me
